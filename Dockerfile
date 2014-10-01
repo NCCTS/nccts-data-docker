@@ -2,7 +2,7 @@
 FROM nccts/baseimage:0.0.9
 
 # nccts/nccts-data
-# Version: 0.0.9
+# Version: 0.0.1
 MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Deus, refugium nostrum et virtus, populum ad te clamantem propitius respice!
 
