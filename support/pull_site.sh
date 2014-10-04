@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd $HOME
-git clone https://github.com/NCCTS/nccts.org.git
-cd nccts.org
+cd $HOME/nccts.org
+git checkout master
+git pull
 latest_tag=$(git describe --tags 2>/dev/null)
 if [ -n "$latest_tag" ]; then
     git checkout $latest_tag
