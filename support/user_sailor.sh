@@ -3,4 +3,5 @@
 mkdir -p $HOME/bin
 cp /docker-build/support/clone_site.sh $HOME/bin/
 cp /docker-build/support/pull_site.sh $HOME/bin/
-bin/clone_site.sh
+
+mkdir -p $HOME/nccts.org
