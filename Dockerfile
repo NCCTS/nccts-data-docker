@@ -7,7 +7,7 @@ MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Deus, refugium nostrum et virtus, populum ad te clamantem propitius respice!
 
 # Cache buster
-ENV REFRESHED_AT [2014-01-23 Fri 14:39]
+ENV REFRESHED_AT [2015-01-23 Fri 14:39]
 
 # Set environment variables
 ENV HOME /root
